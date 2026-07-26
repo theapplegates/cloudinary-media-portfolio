@@ -16,8 +16,9 @@ The key proof is refresh persistence: upload an asset, refresh the browser,
 and the same asset returns from Cloudinary Search API. This is not a local
 array dressed up as a gallery.
 
-> Repository: replace with your public GitHub URL before publication  
-> Live demo: replace with your deployed URL before publication
+> [Browse the GitHub repository](https://github.com/musebe/cloudinary-media-portfolio)
+>
+> [Try the live demo](https://cloudinary-media-portfolio.vercel.app/)
 
 ## What you will build
 

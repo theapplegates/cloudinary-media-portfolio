@@ -4,6 +4,9 @@ Media Quest is a playful media portfolio studio built with Next.js App Router,
 Cloudinary, Server Actions, and shadcn/ui. The home route opens directly into
 the working app. There is no marketing landing page.
 
+- [View the live demo](https://cloudinary-media-portfolio.vercel.app/)
+- [Browse the GitHub repository](https://github.com/musebe/cloudinary-media-portfolio)
+
 The demo follows one complete workflow:
 
 1. Upload an image or video through Cloudinary Upload Widget.
@@ -125,8 +128,9 @@ as a browser toggle.
 ## Tutorial
 
 The complete beginner-oriented article is in
-[docs/article.md](docs/article.md). Before publishing it, replace the marked
-repository and live-demo placeholders with public URLs.
+[docs/article.md](docs/article.md). It references the
+[public repository](https://github.com/musebe/cloudinary-media-portfolio) and
+[deployed demo](https://cloudinary-media-portfolio.vercel.app/).
 
 ## Official references
 
